@@ -1,5 +1,5 @@
 # liquiditymining
-Codex Venture Partners
+
 Welcome to the Codex Venture Partners repository. This collection houses a suite of Python and JavaScript scripts crafted to maximize yield on v3 positions. Our cutting-edge tools leverage automated strategies to optimize returns in dynamic decentralized finance (DeFi) markets.
 
 Overview: 
