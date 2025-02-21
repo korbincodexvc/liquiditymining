@@ -24,5 +24,5 @@ Modular design that allows for quick updates and easy integration of new feature
 Real-Time Analytics:
 Leverage our scripts to monitor performance, assess risk, and execute trades with precision.
 
-Ongoing Development
+Ongoing Development: 
 Our repository is continually evolving. Additional files and scripts will be added as they are designed and battle-tested, ensuring that our tools remain at the forefront of yield optimization strategies.
